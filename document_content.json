@@ -1,0 +1,303 @@
+{
+  "paragraphs": [
+    {
+      "text": "Vinay Juluru",
+      "style": "Normal"
+    },
+    {
+      "text": "Java Full-Stack Developer",
+      "style": "Normal"
+    },
+    {
+      "text": "9378867652 | vinayjuluru4@gmail.com |",
+      "style": "Normal"
+    },
+    {
+      "text": "Professional Summary",
+      "style": "Normal"
+    },
+    {
+      "text": "Accomplished Full-Stack Developer with over 5 years of experience architecting and deploying enterprise-grade web applications and microservices. Specialized in Angular, Java, and RESTful API development, with proven expertise in cloud computing using AWS for serverless solutions and infrastructure optimization. Demonstrated success in delivering high-performance, scalable applications in Agile environments with a focus on code quality, security compliance, and continuous integration/deployment practices.",
+      "style": "Normal"
+    },
+    {
+      "text": "ACADEMICS",
+      "style": "Normal"
+    },
+    {
+      "text": "University of Dayton, Dayton, Ohio, USA\t    CGPA: 3.45",
+      "style": "Body Text"
+    },
+    {
+      "text": "Master\u2019s - Computer Science\t   Aug. 2021 \u2013 May 2023",
+      "style": "Normal"
+    },
+    {
+      "text": "Sreenidhi Institute of Science and Technology, Hyderabad, India                                                                                         CGPA:6.5                              ",
+      "style": "Body Text"
+    },
+    {
+      "text": "Bachelor\u2019s - Electronics and communication Engineering                                                                                                Aug 2015 -  May 2019",
+      "style": "Normal"
+    },
+    {
+      "text": "Technical Skills",
+      "style": "Normal"
+    },
+    {
+      "text": "Programming Languages: Java (8/11/17), JavaScript, TypeScript, SQL, Python",
+      "style": "List Bullet"
+    },
+    {
+      "text": "Front-End Development: Angular 16, React.js, Redux, HTML5, CSS3, Bootstrap, Material UI",
+      "style": "List Bullet"
+    },
+    {
+      "text": "Back-End Development: Spring Boot, Spring MVC, Spring Security, Hibernate, JPA, Node.js, Micronaut",
+      "style": "List Bullet"
+    },
+    {
+      "text": "Databases & Caching: MongoDB, MySQL, PostgreSQL, Oracle, SQL Server, Redis, Elasticsearch",
+      "style": "List Bullet"
+    },
+    {
+      "text": "Messaging & Integration: RESTful APIs, GraphQL, Kafka, RabbitMQ, WebSockets, Apache Flink",
+      "style": "List Bullet"
+    },
+    {
+      "text": "Cloud & DevOps: AWS (Lambda, EC2, S3, RDS, ECS, Fargate), Docker, Kubernetes, Jenkins, GitHub Actions, Terraform",
+      "style": "List Bullet"
+    },
+    {
+      "text": "Testing & Monitoring: JUnit, Mockito, Jasmine, Karma, Splunk, Prometheus, Grafana",
+      "style": "List Bullet"
+    },
+    {
+      "text": "Security & Compliance: OAuth2, JWT, HIPAA, GDPR, PCI-DSS, SOX, FINRA",
+      "style": "List Bullet"
+    },
+    {
+      "text": "Professional Experience",
+      "style": "Normal"
+    },
+    {
+      "text": "Client: BlackRock \u2013 New York, NY",
+      "style": "Normal"
+    },
+    {
+      "text": "Role: Java Full Stack Developer\t                                                                                                               Jan 2024 \u2013 Present",
+      "style": "Normal"
+    },
+    {
+      "text": "Responsibilities:",
+      "style": "Normal"
+    },
+    {
+      "text": "Engineered high-performance backend services using Java 17, Spring Boot, and Micronaut, optimized for Aladdin platform's real-time trading and risk analytics, reducing transaction processing latency by 35%.",
+      "style": "List Bullet"
+    },
+    {
+      "text": "Developed responsive and modular UI components with Angular 16, implementing advanced data visualization for portfolio managers to track market shifts and exposure in real-time.",
+      "style": "List Bullet"
+    },
+    {
+      "text": "Designed and implemented secure RESTful and GraphQL APIs for trade reconciliation, portfolio validation, and risk event notifications, handling over 10,000 requests per minute with 99.99% uptime.",
+      "style": "List Bullet"
+    },
+    {
+      "text": "Integrated Apache Flink for processing market data streams, enabling rapid trade decision-making with sub-second response windows and supporting complex event processing across multiple data sources.",
+      "style": "List Bullet"
+    },
+    {
+      "text": "Implemented Redis caching strategy for high-volume financial datasets (pricing models, benchmarks, market indices), reducing data retrieval latency and database load by 40%.",
+      "style": "List Bullet"
+    },
+    {
+      "text": "Architected and deployed microservices in AWS using ECS, Fargate, and Secrets Manager, ensuring horizontal scalability and secure credentials management for financial applications.",
+      "style": "List Bullet"
+    },
+    {
+      "text": "Designed data persistence layer using PostgreSQL for structured financial data (portfolios, trades) and Elasticsearch for indexed search on audit logs and transaction metadata.",
+      "style": "List Bullet"
+    },
+    {
+      "text": "Implemented comprehensive security framework with SSO and fine-grained access control using OAuth2 and Okta, ensuring secure access to internal Aladdin applications across global offices.",
+      "style": "List Bullet"
+    },
+    {
+      "text": "Established automated CI/CD pipelines using GitHub Actions with containerized deployments via Docker and infrastructure-as-code using Terraform, reducing deployment time by 70%.",
+      "style": "List Bullet"
+    },
+    {
+      "text": "Ensured regulatory compliance with SOX, GDPR, and FINRA requirements through data encryption, comprehensive audit logging, and regular vulnerability assessments.",
+      "style": "List Bullet"
+    },
+    {
+      "text": "Environment: Java 17, Spring Boot, Micronaut, Angular 16, AWS (ECS, Fargate, Secrets Manager), PostgreSQL, Elasticsearch, Redis, Apache Flink, Docker, Terraform, OAuth2, Okta",
+      "style": "Normal"
+    },
+    {
+      "text": "Client: Humana \u2013 Indianapolis, IN",
+      "style": "Normal"
+    },
+    {
+      "text": "Role: Java Full Stack Developer\t                                                                                                      Oct 2022 \u2013 Nov 2023",
+      "style": "Normal"
+    },
+    {
+      "text": "Responsibilities:",
+      "style": "Normal"
+    },
+    {
+      "text": "Architected and implemented Java 17 microservices using Spring Boot for the Humana Data Exchange (HDX) platform, applying event-driven architecture with Kafka for real-time healthcare data processing across integrated systems.",
+      "style": "List Bullet"
+    },
+    {
+      "text": "Optimized Java 17 service performance by implementing advanced Hibernate (JPA) features including lazy loading, connection pooling, and multi-level caching strategies, reducing database load and improving response times by 45%.",
+      "style": "List Bullet"
+    },
+    {
+      "text": "Developed responsive and interactive user interfaces using Angular 16 with RxJS and NgRx state management, transforming complex design mockups into intuitive enterprise-level experiences for the HDX platform.",
+      "style": "List Bullet"
+    },
+    {
+      "text": "Designed and implemented secure RESTful APIs with Spring MVC and Spring Security, incorporating OAuth2 authentication and HIPAA-compliant data handling protocols while adhering to SOLID principles.",
+      "style": "List Bullet"
+    },
+    {
+      "text": "Engineered high-throughput event streaming pipelines with Kafka Connect and Kafka Streams, enabling seamless real-time data exchange between disparate healthcare applications and reducing integration complexity by 30%.",
+      "style": "List Bullet"
+    },
+    {
+      "text": "Created optimized PL/SQL procedures and functions for Oracle databases, improving data access efficiency for complex healthcare analytics queries.",
+      "style": "List Bullet"
+    },
+    {
+      "text": "Implemented serverless computing architecture using AWS Lambda to process Kafka data streams, supporting real-time updates and notifications across the platform while reducing infrastructure costs by 25%.",
+      "style": "List Bullet"
+    },
+    {
+      "text": "Designed MongoDB schema and aggregation pipelines to efficiently store and retrieve unstructured healthcare data, enhancing query performance for complex analytics.",
+      "style": "List Bullet"
+    },
+    {
+      "text": "Implemented comprehensive security measures including data encryption, secure coding practices, and access control to ensure HIPAA and FHIR compliance across all platform components.",
+      "style": "List Bullet"
+    },
+    {
+      "text": "Led performance optimization initiatives including database query tuning, API response caching, and code refactoring, resulting in 60% improvement in overall platform responsiveness.",
+      "style": "List Bullet"
+    },
+    {
+      "text": "Environment: Java 17, Spring Boot, Angular 16, AWS (Lambda, S3, CloudWatch), Oracle, MongoDB, RESTful APIs, Kafka, HIPAA/FHIR standards, Agile",
+      "style": "Normal"
+    },
+    {
+      "text": "Client: HSBC \u2013 Hyderabad, IN",
+      "style": "Normal"
+    },
+    {
+      "text": "Role: Jr Java Full Stack Developer\t                                                                                                         May 2019 \u2013 July 2021",
+      "style": "Normal"
+    },
+    {
+      "text": "Responsibilities:",
+      "style": "Normal"
+    },
+    {
+      "text": "Developed responsive frontend interfaces using React.js and Redux, implementing reusable component libraries and state management patterns for complex financial workflows, reducing code duplication by 35%.",
+      "style": "List Bullet"
+    },
+    {
+      "text": "Designed and implemented Java 11 microservices for secure financial operations, ensuring smooth inter-service communication through RESTful APIs and message queues while adhering to enterprise-level banking protocols.",
+      "style": "List Bullet"
+    },
+    {
+      "text": "Engineered high-performance, secure backend services using Java 11 and Spring Boot, enabling real-time transaction processing with comprehensive error handling and transaction rollback capabilities.",
+      "style": "List Bullet"
+    },
+    {
+      "text": "Implemented real-time communication services with WebSocket, RabbitMQ, and Kafka, enabling instant updates across the banking platform and improving transaction processing speed by 40%.",
+      "style": "List Bullet"
+    },
+    {
+      "text": "Designed event sourcing patterns with Kafka to maintain comprehensive audit trails of financial transactions, ensuring data integrity and regulatory compliance for international banking operations.",
+      "style": "List Bullet"
+    },
+    {
+      "text": "Optimized SQL queries and database interactions in SQL Server through indexing strategies and stored procedures, improving query efficiency and reducing latency by 40% for high-volume transaction processing.",
+      "style": "List Bullet"
+    },
+    {
+      "text": "Participated actively in Agile development processes including sprint planning, daily stand-ups, and retrospectives, consistently delivering high-quality software solutions on schedule.",
+      "style": "List Bullet"
+    },
+    {
+      "text": "Collaborated with cross-functional teams including UX/UI designers, DevOps engineers, and business analysts to align technical solutions with user needs and business objectives, resulting in improved user satisfaction and streamlined development processes.",
+      "style": "List Bullet"
+    },
+    {
+      "text": "Implemented comprehensive unit and integration testing using JUnit and Mockito, achieving 90% code coverage and reducing production defects by 45%.",
+      "style": "List Bullet"
+    },
+    {
+      "text": "Contributed to security enhancement initiatives by implementing input validation, output encoding, and secure authentication mechanisms to protect against common web vulnerabilities.",
+      "style": "List Bullet"
+    },
+    {
+      "text": "Environment: Java 11, Spring Boot, React 16, Redux, RabbitMQ, Kafka, RESTful APIs, SQL Server, WebSocket, Agile",
+      "style": "Normal"
+    },
+    {
+      "text": "Client: PayPal, India",
+      "style": "Normal"
+    },
+    {
+      "text": "Role: Java Intern\t                                                                                                                                          Oct 2018 \u2013 Mar 2019",
+      "style": "Normal"
+    },
+    {
+      "text": "Responsibilities:",
+      "style": "Normal"
+    },
+    {
+      "text": "Designed and developed key modules for an enterprise resource planning (ERP) system using Java 8 and Spring Framework, implementing inventory management and sales tracking functionalities that improved operational efficiency by 25%.",
+      "style": "List Bullet"
+    },
+    {
+      "text": "Built RESTful APIs following industry best practices for seamless data exchange between system components, enhancing integration efficiency and reducing system coupling.",
+      "style": "List Bullet"
+    },
+    {
+      "text": "Optimized database queries using MySQL through proper indexing and query optimization techniques, improving real-time system access and performance by 30%.",
+      "style": "List Bullet"
+    },
+    {
+      "text": "Implemented security measures including role-based access control, data encryption, and secure authentication to protect sensitive financial information in compliance with company standards.",
+      "style": "List Bullet"
+    },
+    {
+      "text": "Conducted thorough troubleshooting and debugging to identify and resolve performance bottlenecks, improving system stability and response time.",
+      "style": "List Bullet"
+    },
+    {
+      "text": "Participated in code reviews and implemented feedback to enhance code quality and maintainability according to team standards.",
+      "style": "List Bullet"
+    },
+    {
+      "text": "Collaborated with senior developers to design and implement database schemas optimized for financial transaction processing and reporting.",
+      "style": "List Bullet"
+    },
+    {
+      "text": "Created comprehensive technical documentation for developed modules to facilitate knowledge transfer and system maintenance.",
+      "style": "List Bullet"
+    },
+    {
+      "text": "Environment: Java 8, Spring Framework, MySQL, RESTful APIs, Agile",
+      "style": "Normal"
+    }
+  ],
+  "tables": [],
+  "images": [],
+  "image_count": 0
+}
